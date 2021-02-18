@@ -1,0 +1,7 @@
+div{
+    color: black;
+    
+        background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+      font-size: large;
+      font-style: italic;
+}
